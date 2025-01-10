@@ -43,4 +43,5 @@ https://github.com/butlerCode1/CS503
 I am eager to develop my skills and knowledge on programming with C programming language and using the command prompt. After our first lecture I am also excited to understand more about systems programming.
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
+
 I am concerned that configurations with my laptop will prevent me from being able to complete certain assignments. I previously had an operating systems class, and made local alterations to my device. For example, I have two different user's in my command line prompt and powershell when I use Ubuntu. One of these also has a passcode that I have forgotten. It is my hope that I can reverse these changes to allow me to use my device fluently for this class.
